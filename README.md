@@ -16,10 +16,10 @@ This repository contains a comprehensive analysis aimed at aiding X Education in
 4. ** Executive Summary.pdf**
    - This PDF file contains a summary report of the case study.
 
-5. **Leads csv**
+5. ** Leads csv**
    - This file contains the dataset provided by the business in CSV format.
 
-6. **Leads Data Dictionary xlsx**
+6. ** Leads Data Dictionary xlsx**
    - This file includes the data dictionary for the provided dataset in XLSX format.
 
 ## Recommendations for Best Use
