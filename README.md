@@ -4,16 +4,16 @@ This repository contains a comprehensive analysis aimed at aiding X Education in
 
 ## Repository Contents
 
-1. **01Lead Scoring Case Study Analysis.ipynb**
+1. ** Lead Scoring Case Study Analysis.ipynb**
    - This Jupyter Notebook file contains all the relevant coding and analysis conducted as part of this case study.
    
-2. **02 Assignment Subjective Questions.pdf**
+2. ** Assignment Subjective Questions.pdf**
    - This PDF file includes all the responses to the queries posed by the business.
 
-3. **03 Lead Scoring Case Study PPT.pdf**
+3. ** Lead Scoring Case Study PPT.pdf**
    - This PDF file presents the analysis conducted using the logistic regression model.
 
-4. **04 Executive Summary.pdf**
+4. ** Executive Summary.pdf**
    - This PDF file contains a summary report of the case study.
 
 5. **Leads csv**
